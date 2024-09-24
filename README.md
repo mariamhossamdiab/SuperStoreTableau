@@ -1,8 +1,11 @@
 
 "# SuperStoreTableau" 
+
 Objective: The objective of this project is to analyze the sales and profitability data of a superstore chain over a specified period to gain insights and make data-driven decisions.
+
 Key Tasks and Analysis:
-  •	Total Sales.
+
+•	Total Sales.
 •	Total Profit.
 •	Sales Growth Rate: The percentage change in sales over time.
 •	Profit Margin: The ratio of profit to sales.
